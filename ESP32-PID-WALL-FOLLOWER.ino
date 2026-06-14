@@ -131,4 +131,4 @@ void gerakMotor(int kiri, int kanan) {
 
   analogWrite(ENA, kiri);
   analogWrite(ENB, kanan);
-}k
+}
